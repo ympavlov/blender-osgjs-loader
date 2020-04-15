@@ -3,9 +3,9 @@
 *Upd: 14/04/20 на форуме обновили инструкцию и сам скрипт:* http://cgig.ru/forum/viewtopic.php?f=5&t=224&start=2200#p9766
 
 ## Нам понадобится:
-- http://www.mediafire.com/file/hvc6uiqpd ... -23%5D.zip (скрипт и мусор)
-- https://www.python.org/ftp/python/2.6.6 ... -2.6.6.msi (питон инстайлер)
-- http://download.blender.org/release/Ble ... -win64.zip (древний блендер)
+- Этот скрипт
+- Python 2.6 (для Windows: https://www.python.org/ftp/python/2.6.6/python-2.6.6.msi)
+- Старый Blender (для Windows: http://download.blender.org/release/Blender2.49/blender-2.49-win64.zip)
 
 ## Устанавливаем:
 - распаковываем блендер куда вздумается
